@@ -1,0 +1,8 @@
+sabado 13 de julio
+-08:05 Continuando con reporte de tickets de choferes (limitando a solo tickets sin devoluciones)
+-08:35 habilitando credito a cliente (instituto amigos de corazon) y realizando factura (pendiente para preguntar)
+-09:05 Continuando con reporte de tickets
+-12:50 Agregando reporte de tickets reporteador general
+-12:55 Revisando producto ofertado (pinol frutal) debido a su exhibicion (el ofertado es el de 828ml pero el exhibido es el de 1 lt)
+-01:00 Continuando con actualizacion para reporteador 
+-01:15 Revisando bascula de mayoreo
